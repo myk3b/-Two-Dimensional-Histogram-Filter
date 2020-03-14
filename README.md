@@ -5,6 +5,6 @@ On high stakes engineering projects like a self driving car, you will probably h
 
 You'll go through this project in a few parts:
 
-**Explore the Code - don't worry about bugs at this point. The goal is to get a feel for how this code base is organized and what everything does.
-**Implement a Feature - write code that gets the robot moving correctly.
-**Fix a Bug - Implementing motion will reveal a bug which hadn't shown up before. Here you'll identify what the bug is and take steps to reproduce it. Then you'll identify the cause and fix it.
+***Explore the Code - don't worry about bugs at this point. The goal is to get a feel for how this code base is organized and what everything does.
+***Implement a Feature - write code that gets the robot moving correctly.
+***Fix a Bug - Implementing motion will reveal a bug which hadn't shown up before. Here you'll identify what the bug is and take steps to reproduce it. Then you'll identify the cause and fix it.
